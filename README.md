@@ -12,8 +12,6 @@ time consuming and lack intuitiveness. This project aims to reduce practiotioner
 
 ## Automatic calculation
 
-#
-
 > The user, like in a regular workstation, can draw straight lines but does not
 > need to calculate angles between them manually. Users can just choose as many potential
 > endplates as they want and draw straight lines. The SaaS calculates all the angle combinations
